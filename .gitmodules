@@ -1,0 +1,3 @@
+[submodule "cookbooks/devtools"]
+	path = cookbooks/devtools
+	url = git://github.com/nickwhitt/devtools.git
